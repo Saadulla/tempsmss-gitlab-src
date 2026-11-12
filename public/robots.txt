@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tempsmss-guides.gitlab.io/sitemap.xml

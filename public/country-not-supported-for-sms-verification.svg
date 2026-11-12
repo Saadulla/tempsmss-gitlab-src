@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Infographic explaining why you see country not supported for SMS verification, with causes and safe fixes to try">
+<title>Infographic explaining why you see country not supported for SMS verification, with causes and safe fixes to try</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#eaf3fc"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/><rect width="430" height="630" fill="#0b3d6e"/>
+<g font-family="-apple-system,Helvetica Neue,Arial,sans-serif">
+<text x="44" y="78" font-size="17" font-weight="600" letter-spacing="3" fill="#8fc3f5">QUICK GUIDE</text>
+<text x="44" y="263" font-size="46" font-weight="800" fill="#fff">Country Not</text>
+<text x="44" y="315" font-size="46" font-weight="800" fill="#fff">Supported?</text>
+<text x="44" y="367" font-size="46" font-weight="800" fill="#fff">Here&#x27;s Why</text>
+<text x="44" y="574" font-size="22" font-weight="700" fill="#8fc3f5">tempsmss.com</text>
+<circle cx="508" cy="172" r="24" fill="#0b6bcb"/><text x="508" y="180" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="554" y="165" font-size="27" fill="#1b1f24">Fraud and SMS costs make services limit</text>
+<text x="554" y="198" font-size="27" fill="#1b1f24">countries</text>
+<rect x="484" y="220" width="662" height="2" fill="#d7e4f2"/>
+<circle cx="508" cy="268" r="24" fill="#0b6bcb"/><text x="508" y="276" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="554" y="261" font-size="27" fill="#1b1f24">Sanctions and local laws block some</text>
+<text x="554" y="294" font-size="27" fill="#1b1f24">regions</text>
+<rect x="484" y="316" width="662" height="2" fill="#d7e4f2"/>
+<circle cx="508" cy="348" r="24" fill="#0b6bcb"/><text x="508" y="356" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="554" y="357" font-size="27" fill="#1b1f24">Sender registration rules can stop texts</text>
+<rect x="484" y="378" width="662" height="2" fill="#d7e4f2"/>
+<circle cx="508" cy="411" r="24" fill="#0b6bcb"/><text x="508" y="419" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="554" y="420" font-size="27" fill="#1b1f24">Check the country code and number format</text>
+<rect x="484" y="442" width="662" height="2" fill="#d7e4f2"/>
+<circle cx="508" cy="474" r="24" fill="#0b6bcb"/><text x="508" y="482" font-size="24" font-weight="800" fill="#fff" text-anchor="middle">5</text>
+<text x="554" y="483" font-size="27" fill="#1b1f24">Try a call, email or authenticator app</text>
+</g></svg>
